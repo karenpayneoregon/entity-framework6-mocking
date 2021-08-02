@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Dotnet_Development\VS2015\MSDN_UnitTesting_CS\EntityLibrary\PersonModel.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\OED\Dotnetland\VS2019\Misc\EntityFrameworkMocking1\EntityLibrary\PersonModel.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

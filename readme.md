@@ -9,6 +9,10 @@ Article [Testing-with-mock-on-Entity-Framework](https://www.codeproject.com/Tips
 
 Another [approach](https://blog.goyello.com/2016/07/14/save-time-mocking-use-your-real-entity-framework-dbcontext-in-unit-tests/) (it's shown in C# but is easy to translate)
 
+# Data scripts
+
+Run script.sql in the script folder before running any test.
+
 # Note
 
 This is done using a .edmx method to work with Entity Framework, will also work with code first approach.
