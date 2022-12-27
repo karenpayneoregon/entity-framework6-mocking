@@ -20,13 +20,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit test projects", "Unit 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entity Framework Core", "Entity Framework Core", "{249BD71F-584F-46C4-B957-77C0B8D88DB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityLibraryCore", "EntityLibraryCore\EntityLibraryCore.csproj", "{F7AE2B73-FC59-4C84-AC3B-99119D784059}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityLibraryCore", "EntityLibraryCore\EntityLibraryCore.csproj", "{F7AE2B73-FC59-4C84-AC3B-99119D784059}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Class projects", "Class projects", "{73721F01-DEFF-43F6-983B-B93BF6CC25DB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit test projects", "Unit test projects", "{21E93F1E-76D1-40A8-9B58-7EDD9B6370CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleUnitTestCore", "SampleUnitTestCore\SampleUnitTestCore.csproj", "{85B3D004-28B0-4C19-A978-87C79821E41C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleUnitTestCore", "SampleUnitTestCore\SampleUnitTestCore.csproj", "{85B3D004-28B0-4C19-A978-87C79821E41C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
